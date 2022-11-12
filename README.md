@@ -7,5 +7,5 @@ paragraf
 |:---:|:---:|:---:|    
 |1|2|3|
 
-https://www.google.pl/
+[google](https://www.google.pl/)
 
